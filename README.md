@@ -96,8 +96,14 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   </a>
 </p>
-<h3 align="left">Destek:</h3>
-<p> <a href="https://www.buymeacoffee.com/diyaridemm"> <img align="left" src="https://cdn .buymeacoffee.com/buttons/v2/default-yellow.png" height = "50" genişlik = "210" alt = "diyaridemm" /></a> </p><br> <br>
+<h3 align="left">Support:</h3>
+<p>
+  <a href="https://www.buymeacoffee.com/diyaridemm" target="_blank" rel="noreferrer">
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="diyaridemm" />
+  </a>
+</p>
+<br>
+<br>
 
 
 <p><img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=diyardemir47&show_icons=true&locale=en&layout=compact" alt = "diyardemir47" /> </p>
