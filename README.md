@@ -1,9 +1,9 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]
+![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 <h1 align="center">Hello 👋, I'm Diyar</h1>
 <h3 align="center">Passionate full-stack developer from Turkey</h3>
 
 
-<img align="right" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" style="border-radius: 50%;">
+<img align="center" width="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" style="border-radius: 50%;">
 
 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=diyardemir47&label=Profile%20views&color=0e75b6&style=flat" alt = "diyardemir47" /> </p>
