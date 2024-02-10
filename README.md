@@ -17,16 +17,19 @@
 - 🤝 Currently working at [Kpss Sınavı](https://play.google.com/store/apps/details?id=com.diyaridem.kpssexam&hl=en_US).
 
 
-- 📝 Düzenli olarak bu konuda makaleler yazıyorum [www.diyaridem.com](www.diyaridem.com)
+- 📝 I regularly write articles on [www.diyaridem.com](https://www.diyaridem.com).
 
-- 📫 Bana nasıl ulaşabilirsiniz **diyardemirr@outlook.com**
+- 📫 You can reach me at **diyardemirr@outlook.com**.
 
-<h3 align="left">Benimle iletişime geçin:</h3>
-<p align=" sol">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/diyardemir47/" target="blank"><img align="center" src="https ://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt = "https://www.linkedin.com/" in/diyardemir47/" height="30" width="40" /></a>
+<h3 align="left">Get in touch with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/diyardemir47/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diyardemir47/" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Diller ve Araçlar:</h3>
+<h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -74,14 +77,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/simgeler/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/başlıklogosu.svg" alt="reactnative" width="40" height="40"/>
-  </a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+</a>
+
   <a href="https://www.sketch.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/>
   </a>
