@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]
 
 <h1 align="center">Hello 👋, I'm Diyar</h1>
 <h3 align="center">Passionate full-stack developer from Turkey</h3>
@@ -16,19 +16,19 @@
 
 - 🧑🏻‍💻 Currently working at [Kpss Sınavı](https://play.google.com/store/apps/details?id=com.diyaridem.kpssexam&hl=en_US).
 
+- 📝 I regularly write articles on [www.diyaridem.com](https://www.diyaridem.com).
 
-- 📝 Düzenli olarak makaleler yazıyorum [www.diyaridem.com](https://www.diyaridem.com)
+- 📫 You can reach me at **diyardemirr@outlook.com**.
 
-- 📫 Bana nasıl ulaşabilirsiniz **diyardemirr@outlook.com**
-
-<h3 align="left">Benimle iletişime geçin:</h3>
+<h3 align="left">Get in touch with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/diyardemir47/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diyardemir47/" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left">Diller ve Araçlar:</h3>
+<h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
