@@ -9,7 +9,7 @@
 
 - 🔭 Currently working at [Alikari](https://alikari.com.tr/)
 
-- 👯 Currently working at [Petelok](https://petelok.com).
+- 👯 Currently working at [Petelok](https://petelok.com.tr).
 
 - 🤝 Currently working at [Kpss Sınavı](https://play.google.com/store/apps/details?id=com.diyaridem.kpssexam&hl=en_US).
 
